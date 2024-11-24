@@ -1,0 +1,169 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\AcunMedyaDersleri\\01-HOMEWORKS\\Week11-Homeworks\\MyPortfolioApp\\wwwroot\\ui\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\ui\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\AcunMedyaDersleri\\01-HOMEWORKS\\Week11-Homeworks\\MyPortfolioApp\\wwwroot\\ui\\css\\style.css",
+      "PackagePath": "staticwebassets\\ui\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\AcunMedyaDersleri\\01-HOMEWORKS\\Week11-Homeworks\\MyPortfolioApp\\wwwroot\\ui\\img\\about-1.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\about-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\AcunMedyaDersleri\\01-HOMEWORKS\\Week11-Homeworks\\MyPortfolioApp\\wwwroot\\ui\\img\\about-2.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\about-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\AcunMedyaDersleri\\01-HOMEWORKS\\Week11-Homeworks\\MyPortfolioApp\\wwwroot\\ui\\img\\about-3.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\about-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\AcunMedyaDersleri\\01-HOMEWORKS\\Week11-Homeworks\\MyPortfolioApp\\wwwroot\\ui\\img\\about-4.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\about-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\AcunMedyaDersleri\\01-HOMEWORKS\\Week11-Homeworks\\MyPortfolioApp\\wwwroot\\ui\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\AcunMedyaDersleri\\01-HOMEWORKS\\Week11-Homeworks\\MyPortfolioApp\\wwwroot\\ui\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\AcunMedyaDersleri\\01-HOMEWORKS\\Week11-Homeworks\\MyPortfolioApp\\wwwroot\\ui\\img\\com-logo-1.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\com-logo-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\AcunMedyaDersleri\\01-HOMEWORKS\\Week11-Homeworks\\MyPortfolioApp\\wwwroot\\ui\\img\\com-logo-2.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\com-logo-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\AcunMedyaDersleri\\01-HOMEWORKS\\Week11-Homeworks\\MyPortfolioApp\\wwwroot\\ui\\img\\com-logo-3.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\com-logo-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\AcunMedyaDersleri\\01-HOMEWORKS\\Week11-Homeworks\\MyPortfolioApp\\wwwroot\\ui\\img\\com-logo-4.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\com-logo-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\AcunMedyaDersleri\\01-HOMEWORKS\\Week11-Homeworks\\MyPortfolioApp\\wwwroot\\ui\\img\\com-logo-5.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\com-logo-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\AcunMedyaDersleri\\01-HOMEWORKS\\Week11-Homeworks\\MyPortfolioApp\\wwwroot\\ui\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\AcunMedyaDersleri\\01-HOMEWORKS\\Week11-Homeworks\\MyPortfolioApp\\wwwroot\\ui\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\AcunMedyaDersleri\\01-HOMEWORKS\\Week11-Homeworks\\MyPortfolioApp\\wwwroot\\ui\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\AcunMedyaDersleri\\01-HOMEWORKS\\Week11-Homeworks\\MyPortfolioApp\\wwwroot\\ui\\img\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\testimonial-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\AcunMedyaDersleri\\01-HOMEWORKS\\Week11-Homeworks\\MyPortfolioApp\\wwwroot\\ui\\js\\main.js",
+      "PackagePath": "staticwebassets\\ui\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\AcunMedyaDersleri\\01-HOMEWORKS\\Week11-Homeworks\\MyPortfolioApp\\wwwroot\\ui\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\ui\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\AcunMedyaDersleri\\01-HOMEWORKS\\Week11-Homeworks\\MyPortfolioApp\\wwwroot\\ui\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\ui\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\AcunMedyaDersleri\\01-HOMEWORKS\\Week11-Homeworks\\MyPortfolioApp\\wwwroot\\ui\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\ui\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\AcunMedyaDersleri\\01-HOMEWORKS\\Week11-Homeworks\\MyPortfolioApp\\wwwroot\\ui\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\ui\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\AcunMedyaDersleri\\01-HOMEWORKS\\Week11-Homeworks\\MyPortfolioApp\\wwwroot\\ui\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\ui\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\AcunMedyaDersleri\\01-HOMEWORKS\\Week11-Homeworks\\MyPortfolioApp\\wwwroot\\ui\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\ui\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\AcunMedyaDersleri\\01-HOMEWORKS\\Week11-Homeworks\\MyPortfolioApp\\wwwroot\\ui\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\ui\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\AcunMedyaDersleri\\01-HOMEWORKS\\Week11-Homeworks\\MyPortfolioApp\\wwwroot\\ui\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\ui\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\AcunMedyaDersleri\\01-HOMEWORKS\\Week11-Homeworks\\MyPortfolioApp\\wwwroot\\ui\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\ui\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\AcunMedyaDersleri\\01-HOMEWORKS\\Week11-Homeworks\\MyPortfolioApp\\wwwroot\\ui\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\ui\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\AcunMedyaDersleri\\01-HOMEWORKS\\Week11-Homeworks\\MyPortfolioApp\\wwwroot\\ui\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\ui\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\AcunMedyaDersleri\\01-HOMEWORKS\\Week11-Homeworks\\MyPortfolioApp\\wwwroot\\ui\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\ui\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\AcunMedyaDersleri\\01-HOMEWORKS\\Week11-Homeworks\\MyPortfolioApp\\wwwroot\\ui\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\ui\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\AcunMedyaDersleri\\01-HOMEWORKS\\Week11-Homeworks\\MyPortfolioApp\\wwwroot\\ui\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\ui\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\AcunMedyaDersleri\\01-HOMEWORKS\\Week11-Homeworks\\MyPortfolioApp\\wwwroot\\ui\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\ui\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\AcunMedyaDersleri\\01-HOMEWORKS\\Week11-Homeworks\\MyPortfolioApp\\wwwroot\\ui\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\ui\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\AcunMedyaDersleri\\01-HOMEWORKS\\Week11-Homeworks\\MyPortfolioApp\\wwwroot\\ui\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\ui\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\AcunMedyaDersleri\\01-HOMEWORKS\\Week11-Homeworks\\MyPortfolioApp\\wwwroot\\ui\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\ui\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\AcunMedyaDersleri\\01-HOMEWORKS\\Week11-Homeworks\\MyPortfolioApp\\wwwroot\\ui\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\ui\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyPortfolioApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MyPortfolioApp.props",
+      "PackagePath": "build\\MyPortfolioApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MyPortfolioApp.props",
+      "PackagePath": "buildMultiTargeting\\MyPortfolioApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MyPortfolioApp.props",
+      "PackagePath": "buildTransitive\\MyPortfolioApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
